@@ -25,4 +25,3 @@ After clone, execute the npm i and start your expo.
 
 ## Demo
 https://github.com/devwee/sticker-smash/assets/111082011/36820d90-7927-4f44-8173-5000b3cff694
-Video from [Expo tutorial](https://docs.expo.dev/tutorial/introduction/).
